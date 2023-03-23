@@ -74,6 +74,7 @@ body{
     height: 200px;
 }
 .info-container {
+    height: 600px;
     flex-direction: column;
     flex:1;
 }
@@ -101,7 +102,7 @@ figure.item {
 .item img {
     width: 150px;
     height: 150px;
-    background-color: grey;
+    background-color: white;
     border: #3882f6 solid;
     border-radius: 13px;
 }
@@ -118,20 +119,64 @@ figure.item {
     color: #1f2937;
 }
 .quotes-box{
-    padding: 200px;
+    justify-content: center;
+    padding-left: 250px;
+    padding-right: 250px;
     flex: 1;
     display: flex;
     flex-direction: column;
 }
 .quote{
-    padding-left: 50px;
-    padding-right: 50px;
     text-align: center;
     font-size: 36px;
     font-style: italic;
 }
 .author{
+    padding-top: 15px;
     font-size: 30px;
     text-align: end;
     font-weight: bold;
+}
+.promotion-section{
+    display: flex;
+    height: 300px;
+    justify-content: center;
+}
+.promotion-box{
+    display: flex;
+    background: #3882f6;
+    height: 150px;
+    width: 700px;
+    border-radius: 10px;
+    align-self: center;
+}
+.promotion-box-section{
+    display: flex;
+    flex:1;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.promotion-box-description{
+    display: flex;
+    flex-direction: column;
+    flex:1;
+}
+.promotion-box-heading{
+    color: #f9faf8;
+    font-weight: bold;
+}
+.promotion-box-info{
+    color: #e5e7eb;
+}
+.promotion-btn{
+}
+.sign-up-btn-footer{
+    background: #3882f6;
+    color: #f9faf8;
+    border-radius: 5px;
+    border: 2px solid #f9faf8;
+    text-align: center;
+    height: 30px;
+    width: 100px;
 }
