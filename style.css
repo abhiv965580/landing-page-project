@@ -110,3 +110,28 @@ figure.item {
     display: block;
     color: #1f2937;
 }
+.quotes-section{
+    flex-direction: column;
+    background: #e5e7eb;
+    height: 500px;
+    display: flex;
+    color: #1f2937;
+}
+.quotes-box{
+    padding: 200px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+.quote{
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    font-size: 36px;
+    font-style: italic;
+}
+.author{
+    font-size: 30px;
+    text-align: end;
+    font-weight: bold;
+}
