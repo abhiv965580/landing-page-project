@@ -78,6 +78,7 @@ img{
     flex:1;
 }
 .info-heading{
+    padding-top: 50px;
     text-align: center;
     font-size: 36px;
     font-weight:bolder;
