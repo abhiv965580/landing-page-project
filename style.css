@@ -1,5 +1,5 @@
 body{
-    font-family: "Roboto", "Helvetica Neue";
+    font-family: Roboto, "Helvetica Neue";
 }
 .header-main{
     width: 100%;
@@ -68,7 +68,7 @@ body{
     padding-left: 2%;
     flex:1;
     width: 350px;
-    height: 200px;
+    height: auto;
 }
 .info-container {
     height: 600px;
