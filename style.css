@@ -67,8 +67,6 @@ body{
 .header-main-section img{
     padding-left: 2%;
     flex:1;
-    width: 350px;
-    height: auto;
 }
 .info-container {
     height: 600px;
@@ -96,9 +94,6 @@ figure.item {
     width: 150px;
 }
 .item img {
-    width: 150px;
-    height: 150px;
-    background-color: white;
     border: #3882f6 solid;
     border-radius: 13px;
 }
