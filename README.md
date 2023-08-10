@@ -6,7 +6,7 @@ The page contains 5 different sections(including the header and footer), and the
 
 A screenshot of the landing page is included in this PR for reference.
 
-### Live Link: https://abhishek310001.github.io/landing-page-project/
+### Live Link: https://abhiv965580.github.io/landing-page-project/
 ### Project Link: https://www.theodinproject.com/lessons/foundations-landing-page
 
 ## UI Screenshot:
